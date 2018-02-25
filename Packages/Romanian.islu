@@ -1,0 +1,14 @@
+﻿CreateStartMenu=Creează scurtături pentru program în meniul &Start
+CreateTaskBarIcon=Fixare iconiță în bara de programe
+ChooseBitVersion=%nSelectați versiunea care va porni implicit:
+Bit32=32 de biți
+Bit64=64 de biți
+IsDeleteUserDataRib=Datele utilizatorului vor fi șterse (setări, meniuri etc.)?
+DoNotDelTreeRetry=Nu se poate șterge dosarul%n"%1"!%n%nMai încercați?
+AutoStartupCaption=Pornește oMega Commander automat odată cu Windows:
+ForUserNone=Nu porni odată cu Windows
+ForUserCurrent=Pornește doar pentru utilizatorul curent
+ForUserAll=Pornește pentru toți utilizatorii
+PortableCheckBox=Instalează o versiune portabilă
+RootLinks=Creează scurtături în rădăcina discului pentru lansare rapidă
+ConfirmPortable=Se va instala versiunea portabilă a aplicației.%n%nDosarul "%1"%nTREBUIE SĂ FIE DISPONIBIL pentru a salva setările%nîn timp ce oMega Commander rulează.%n%nContinuați?
